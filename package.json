@@ -9,9 +9,9 @@
   "directories": {
     "test": "tests"
   },
-  "homepage": "https://github.com/lxhunter/ansible-lint",
+  "homepage": "https://github.com/lxhunter/ansible-lint-rules",
   "bugs": {
-    "url": "https://github.com/lxhunter/ansible-lint/issues",
+    "url": "https://github.com/lxhunter/ansible-lint-rules/issues",
     "email": "alexander.jaeger@brandfrisch.com"
   },
   "license": "MIT",
@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxhunter/ansible-lint.git"
+    "url": "https://github.com/lxhunter/ansible-lint-rules.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
